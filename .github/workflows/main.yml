@@ -36,7 +36,7 @@ jobs:
             gnuplot
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
-          plugin_languages_colors: rust:#ff0000, javascript:blue, python:green
+          plugin_languages_colors: Rust:#ff0000, javascript:blue, python:green
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
 
