@@ -1,5 +1,6 @@
 ![Metrics](/github-metrics.svg)
 ![Half-Year Calendar](metrics.plugin.isocalendar.svg)
+![Languages](metrics.plugin.languages.indepth.svg)
 
 <!--
 **Blizzyboii/Blizzyboii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
