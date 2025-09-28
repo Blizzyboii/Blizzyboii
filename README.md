@@ -1,6 +1,6 @@
-<img src="/github-metrics.svg" width="800px" />
-<img src="metrics.plugin.isocalendar.svg" width="800px" />
-<img src="metrics.plugin.languages.indepth.svg" width="800px" />
+<img src="/github-metrics.svg" width="700px" />
+<img src="metrics.plugin.isocalendar.svg" width="700px" />
+<img src="metrics.plugin.languages.indepth.svg" width="700px" />
 
 
 <!--
