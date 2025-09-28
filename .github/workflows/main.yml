@@ -39,5 +39,16 @@ jobs:
           plugin_languages_colors: Rust:#ff0000, javascript:blue, python:green
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
+      - name: Mildly interesting facts
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: America/Chicago
+
 
 
