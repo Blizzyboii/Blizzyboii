@@ -1,7 +1,7 @@
 # Check out my [website](https://sunayshehaan.com)!
 <img src="/github-metrics.svg" width="700px" />
 <img src="metrics.plugin.isocalendar.svg" width="700px" />
-![Snake Animation](https://github.com/Blizzyboii/Blizzyboii/blob/output/github-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Blizzyboii/Blizzyboii/output/github-snake.svg)
 <img src="metrics.plugin.languages.indepth.svg" width="700px" />
 
 
