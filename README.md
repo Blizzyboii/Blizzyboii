@@ -1,7 +1,6 @@
 # Check out my [website](https://sunayshehaan.com)!
 <img src="/github-metrics.svg" width="700px" />
 <img src="metrics.plugin.isocalendar.svg" width="700px" />
-![Snake Animation](https://raw.githubusercontent.com/Blizzyboii/Blizzyboii/output/github-snake.svg)
 <img src="metrics.plugin.languages.indepth.svg" width="700px" />
 
 
@@ -19,4 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Snake Animation](https://raw.githubusercontent.com/Blizzyboii/Blizzyboii/output/github-snake-dark.svg?palette=github-dark)
 ![](https://hit.yhype.me/github/profile?account_id=171317821)
